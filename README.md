@@ -1,4 +1,4 @@
-# Back-Jack
+# Black-Jack
 A mini project to simulate the popular arcade game Black Jack.
 
 This is one of the projects I made while taking the Fundamentals of Computing Specialization on Coursera: https://www.coursera.org/specializations/computer-fundamentals
